@@ -1,0 +1,7 @@
+# Project Angularjs CSS and html
+
+install 
+
+npm install angular@1.6.6
+
+we need this for attaching node_modules.
